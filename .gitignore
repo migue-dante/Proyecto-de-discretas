@@ -1,0 +1,15 @@
+# Ejecutables y archivos de compilación
+build/
+*.exe
+*.o
+*.obj
+*.out
+a.out
+discretas
+
+# Editores / sistema
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/tasks.json
+!.vscode/extensions.json
